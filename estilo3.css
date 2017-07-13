@@ -1,0 +1,96 @@
+*{
+	margin:0px;
+	border:0px;
+}
+div#contenedor{
+	width: 960px;
+	margin: 15px auto;
+	text-align: left;
+}
+.headerprincipal{
+	float: left;
+	width: 140px;
+	display: inline-block;
+	background:#252525;
+	text-align: center;
+	padding: 10px;
+}
+h3{
+ 	display: inline-block;
+	font:16px arial;
+	color:#868686;
+}
+nav{
+	background:	#252525;
+	display: inline-block;
+	width:800px;
+}
+nav li{
+		padding:11px;
+		list-style: none;
+		font: 14px arial,sans-serif ;
+		color:#868686;
+		display: inline-block;
+		margin:0px 0.5em;
+}
+
+nav li:hover{
+	background:	#141414;
+	cursor: pointer;
+	color:#ffffff;
+}
+.principal{
+	height: 300px;
+	background: #eeeeee;
+	padding:1em 2em;
+}
+h1{
+	font: 42px Arial;
+	padding-bottom: 0.5em ;
+	text-align: center;
+}
+#cuerpoprincipal{
+	font:18px Arial;
+}
+#secundario{
+	height: 350px;
+}
+#secundario article{
+	display: inline-block;
+	padding: 1em 2em;
+	width: 230px;
+	height: 300px;
+	float: left;
+}
+h2{
+	font:24px Arial;
+	padding-bottom:0.5em;
+}
+#secundario article p{
+	height: 210px;
+	font:16px Arial;
+}
+
+
+
+footer{
+	border-top: 2px solid #eeeeee;
+	padding: 1em 0px;
+}
+h4{
+	font:16px arial;
+}
+input{
+	background: #57b157;
+	font:16px Arial;
+	color: #ffffff;
+	margin:0.5em 0px;
+	padding: 0.5em ;
+}
+input:hover{
+	
+	background: #28a745;
+}
+a{
+	text-decoration:none;
+}

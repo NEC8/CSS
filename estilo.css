@@ -1,0 +1,24 @@
+
+*{
+	padding: 0px;
+	margin:0px;
+	border: 0px;
+}
+div.contenedor{
+	width:960px;
+	margin:15px auto;
+	text-align: left;
+}
+figcaption{
+	text-align: center;
+	font-size: 14px;
+}
+img{
+				display:inline-block;
+				width:25%;
+				height:25%;
+				float:left;
+}
+ul{
+	margin-top:10px;
+}
