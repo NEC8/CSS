@@ -3,7 +3,7 @@
 	padding: 0px;
 }
 div.contenedor{
-	width: 960px;
+width: 960px;
 margin: 15px auto;
 text-align: left;
 
@@ -14,7 +14,8 @@ header{
 	background-color: #4abdac ;
 }
 header h1{
-	margin:0px 0px 1px 0px;
+	/*margin:0px 0px 1px 0px;*/
+    margin: 0.5em 0em 0.5em 0em;
 	color: #fff;
 	text-align: center;
 	font:900 2.5em verdana;
@@ -32,14 +33,17 @@ div.cuerpo{
 background: #fc4a1a;
 padding:20px;
 }
-img{
-	width: 300px;
-	height: 300px;
-	float:left;
-	margin-right: 20px;
-
+img {
+    /*Falta los margenes*/
+    margin: 0em 1em 1em 1em;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-right: 20px;
 }
 p{
+    /*Falta los margenes*/
+    margin: 0em 1em 1em 1em;
 	font:900 1em verdana;
 	font-size: 30px;
 	color:#ffffff;

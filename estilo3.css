@@ -8,22 +8,28 @@ div#contenedor{
 	text-align: left;
 }
 .headerprincipal{
-	float: left;
-	width: 140px;
+	/*float: left;*/
+	/*width: 140px;*/
 	display: inline-block;
-	background:#252525;
+	/*background:#252525;*/
 	text-align: center;
 	padding: 10px;
 }
+
+nav ul {
+    display: inline-block
+}
+
 h3{
  	display: inline-block;
 	font:16px arial;
 	color:#868686;
 }
 nav{
+    padding: 1.5em;
 	background:	#252525;
-	display: inline-block;
-	width:800px;
+	/*display: inline-block;*/
+	/*width:800px;*/
 }
 nav li{
 		padding:11px;
